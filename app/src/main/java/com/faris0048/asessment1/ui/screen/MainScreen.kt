@@ -2,6 +2,7 @@ package com.faris0048.asessment1.ui.screen
 
 import android.content.res.Configuration
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -30,6 +31,7 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
 import com.faris0048.asessment1.R
+import com.faris0048.asessment1.navigation.Screen
 import com.faris0048.asessment1.ui.theme.Asessment1Theme
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -70,9 +72,12 @@ fun ScreenContent(modifier: Modifier = Modifier, navController: NavController) {
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(vertical = 8.dp)
+                .clickable { navController.navigate(Screen.Suhu.route) }
         ) {
             Row(
-                modifier = Modifier.fillMaxWidth().padding(16.dp),
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(16.dp),
                 horizontalArrangement = Arrangement.Start,
                 verticalAlignment = Alignment.CenterVertically
             ) {
@@ -99,9 +104,12 @@ fun ScreenContent(modifier: Modifier = Modifier, navController: NavController) {
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(vertical = 8.dp)
+                .clickable { navController.navigate(Screen.Panjang.route) }
         ) {
             Row(
-                modifier = Modifier.fillMaxWidth().padding(16.dp),
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(16.dp),
                 horizontalArrangement = Arrangement.Start,
                 verticalAlignment = Alignment.CenterVertically
             ) {
@@ -128,9 +136,12 @@ fun ScreenContent(modifier: Modifier = Modifier, navController: NavController) {
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(vertical = 8.dp)
+                .clickable { navController.navigate(Screen.Berat.route) }
         ) {
             Row(
-                modifier = Modifier.fillMaxWidth().padding(16.dp),
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(16.dp),
                 horizontalArrangement = Arrangement.Start,
                 verticalAlignment = Alignment.CenterVertically
             ) {
@@ -146,7 +157,6 @@ fun ScreenContent(modifier: Modifier = Modifier, navController: NavController) {
                     fontWeight = FontWeight.Bold,
                     modifier = Modifier
                         .padding(start = 64.dp)
-
                 )
             }
         }
