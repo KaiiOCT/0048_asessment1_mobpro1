@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">asessment1</string>
+    <string name="app_name">Aplikasi Konversi</string>
+    <string name="judul_suhu">Konversi Suhu</string>
+    <string name="judul_panjang">Konversi Panjang</string>
+    <string name="judul_berat">Konversi Berat</string>
+    <string name="des_suhu">Suhu</string>
+    <string name="des_panjang">Panjang</string>
+    <string name="des_berat">Berat</string>
 </resources>
