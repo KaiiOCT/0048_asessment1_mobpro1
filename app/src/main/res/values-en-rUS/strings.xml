@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bagikan_hasil">The conversion result from %1$s %2$s to %3$s is %4$s</string>
+    <string name="pilih">Select</string>
+    <string name="app_name">Conversion App</string>
+    <string name="hasil">Result: %1$s</string>
+    <string name="input_invalid">Cannot be empty.</string>
+    <string name="kembali">Back</string>
+    <string name="bagikan">Share</string>
+    <string name="judul_suhu">Temperature Conversion</string>
+    <string name="judul_panjang">Length Conversion</string>
+    <string name="judul_berat">Weight Conversion</string>
+    <string name="konversi">Convert</string>
+    <string name="des_suhu">Temperature</string>
+    <string name="des_panjang">Length</string>
+    <string name="des_berat">Weight</string>
+    <string name="dropdown">Dropdown Icon</string>
+    <string name="convert">Convert</string>
+    <string name="input_suhu">Input temperature</string>
+    <string name="input_panjang">Input lenght</string>
+    <string name="input_berat">Input weight</string>
+</resources>

@@ -1,9 +1,34 @@
 <resources>
+    <!--Global-->
+    <string name="hasil">Hasil: %1$s</string>
+    <string name="input_invalid">Tidak boleh kosong.</string>
+    <string name="kembali">Kembali</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_hasil">Hasil konversi dari %1$s %2$s ke %3$s adalah %4$s</string>
+    <string name="pilih">Pilih</string>
+
+    <!--Tampilan Main-->
     <string name="app_name">Aplikasi Konversi</string>
-    <string name="judul_suhu">Konversi Suhu</string>
-    <string name="judul_panjang">Konversi Panjang</string>
-    <string name="judul_berat">Konversi Berat</string>
+    <string name="konversi">Konversi</string>
+
+    <!--Gambar-->
     <string name="des_suhu">Suhu</string>
     <string name="des_panjang">Panjang</string>
     <string name="des_berat">Berat</string>
+
+    <!--Icon-->
+    <string name="dropdown">Icon Dropdown</string>
+    <string name="convert">Convert</string>
+
+    <!--Tampilan Suhu-->
+    <string name="input_suhu">Masukkan suhu</string>
+    <string name="judul_suhu">Konversi Suhu</string>
+
+    <!--Tampilan Panjang-->
+    <string name="judul_panjang">Konversi Panjang</string>
+    <string name="input_panjang">Masukan Panjang</string>
+
+    <!--Tampilan Berat-->
+    <string name="judul_berat">Konversi Berat</string>
+    <string name="input_berat">Masukan Berat</string>
 </resources>
