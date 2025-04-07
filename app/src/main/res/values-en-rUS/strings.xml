@@ -19,4 +19,10 @@
     <string name="input_suhu">Input temperature</string>
     <string name="input_panjang">Input lenght</string>
     <string name="input_berat">Input weight</string>
+    <string name="copyright_suhu">This Conversion App is developed as an educational tool to help users convert values between units such as temperature, length, and weight.&#10;&#10;The temperature conversion feature allows you to convert values between Celsius, Fahrenheit, and Kelvin quickly and accurately.&#10;&#10;The app is designed with a simple and user-friendly interface, making it suitable for students, teachers, and the general public.&#10;&#10;Developed by Faris Rizky Ramadhan as part of a mobile programming learning project.&#10;&#10;Copyright protected © 2025.</string>
+    <string name="tentang_suhu">About Temperature Conversion</string>
+    <string name="copyright_panjang">This Conversion App provides a length unit conversion feature to help users calculate values between units such as millimeter, centimeter, meter, kilometer, inch, feet, and mile.&#10;&#10;     The length conversion feature is designed to be easy to use and delivers accurate results in no time.&#10;&#10;     This app is very useful for students, engineers, and anyone who needs a practical length measurement tool.&#10;&#10;     Developed by Faris Rizky Ramadhan as part of a mobile programming learning project.&#10;&#10;     Copyright © 2025. All rights reserved.</string>
+    <string name="tentang_panjang">About Lenght Conversion</string>
+    <string name="copyright_berat">This Conversion App also supports weight unit conversion to help users calculate values between units such as milligram, gram, kilogram, ton, ounce, and pound.&#10;&#10;     The weight conversion feature is designed with an intuitive interface and quickly displays conversion results.&#10;&#10;     It is ideal for use in learning activities, cooking, logistics, or any other activity involving weight units.&#10;&#10;     Developed by Faris Rizky Ramadhan as part of a mobile programming learning project.&#10;&#10;     Copyright © 2025.</string>
+    <string name="tentang_berat">About Weight Conversion</string>
 </resources>

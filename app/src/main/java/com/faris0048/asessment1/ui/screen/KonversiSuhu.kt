@@ -21,6 +21,7 @@ import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
 import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material.icons.filled.Warning
+import androidx.compose.material.icons.outlined.Info
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.DropdownMenu
@@ -53,6 +54,7 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
 import com.faris0048.asessment1.R
+import com.faris0048.asessment1.navigation.Screen
 import com.faris0048.asessment1.ui.theme.Asessment1Theme
 
 
@@ -78,6 +80,19 @@ fun SuhuScreen(navController: NavController) {
                     containerColor = colorResource(R.color.dark_blue),
                     titleContentColor = colorResource(R.color.white)
                 ),
+                actions = {
+                    IconButton(
+                        onClick = {
+                            navController.navigate(Screen.AboutSuhu.route)
+                        }
+                    ) {
+                        Icon(
+                            imageVector = Icons.Outlined.Info,
+                            contentDescription = stringResource(R.string.tentang_suhu),
+                            tint = colorResource(R.color.white)
+                        )
+                    }
+                }
             )
         }
     ) { innerPadding ->
