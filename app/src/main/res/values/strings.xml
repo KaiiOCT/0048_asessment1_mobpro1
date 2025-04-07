@@ -35,32 +35,19 @@
 
     <!--Tampilan About Suhu-->
     <string name="copyright_suhu">
-        Aplikasi Konversi ini dikembangkan sebagai alat edukatif untuk membantu pengguna mengonversi nilai antar satuan seperti suhu, panjang, dan berat.&#10;&#10;
-        Fitur konversi suhu memungkinkan Anda mengubah nilai antara Celsius, Fahrenheit, dan Kelvin dengan cepat dan akurat.&#10;&#10;
-        Aplikasi ini dirancang dengan antarmuka yang sederhana dan ramah pengguna, cocok untuk pelajar, guru, maupun masyarakat umum.&#10;&#10;
-        Dikembangkan oleh Faris Rizky Ramadhan sebagai bagian dari proyek pembelajaran pemrograman mobile.&#10;&#10;
-        Hak cipta dilindungi © 2025.
+        Aplikasi Konversi ini dikembangkan sebagai alat edukatif untuk membantu pengguna mengonversi nilai antar satuan seperti suhu, panjang, dan berat.\n\nFitur konversi suhu memungkinkan Anda mengubah nilai antara Celsius, Fahrenheit, dan Kelvin dengan cepat dan akurat.\n\nAplikasi ini dirancang dengan antarmuka yang sederhana dan ramah pengguna, cocok untuk pelajar, guru, maupun masyarakat umum.\n\nDikembangkan oleh Faris Rizky Ramadhan sebagai bagian dari proyek pembelajaran pemrograman mobile.\n\nHak cipta dilindungi © 2025.
     </string>
     <string name="tentang_suhu">Tentang Konversi Suhu</string>
 
     <!--Tampilan About Panjang-->
     <string name="copyright_panjang">
-        Aplikasi Konversi ini menyediakan fitur konversi satuan panjang untuk membantu pengguna menghitung nilai antar satuan seperti milimeter, sentimeter, meter, kilometer, inch, feet, dan mile.&#10;&#10;
-        Fitur konversi panjang dirancang agar mudah digunakan dan memberikan hasil yang akurat dalam waktu singkat.&#10;&#10;
-        Aplikasi ini sangat bermanfaat bagi pelajar, insinyur, dan siapa pun yang membutuhkan alat bantu pengukuran panjang yang praktis.&#10;&#10;
-        Dikembangkan oleh Faris Rizky Ramadhan sebagai bagian dari proyek pembelajaran pemrograman mobile.&#10;&#10;
-        Hak cipta dilindungi © 2025.
+        Aplikasi Konversi ini menyediakan fitur konversi satuan panjang untuk membantu pengguna menghitung nilai antar satuan seperti milimeter, sentimeter, meter, kilometer, inch, feet, dan mile.\n\nFitur konversi panjang dirancang agar mudah digunakan dan memberikan hasil yang akurat dalam waktu singkat.\n\nAplikasi ini sangat bermanfaat bagi pelajar, insinyur, dan siapa pun yang membutuhkan alat bantu pengukuran panjang yang praktis.\n\nDikembangkan oleh Faris Rizky Ramadhan sebagai bagian dari proyek pembelajaran pemrograman mobile.\n\nHak cipta dilindungi © 2025.
     </string>
     <string name="tentang_panjang">Tentang Konversi Panjang</string>
 
-
     <!--Tampilan About Berat-->
     <string name="copyright_berat">
-        Aplikasi Konversi ini juga mendukung konversi satuan berat untuk memudahkan pengguna menghitung nilai antar satuan seperti miligram, gram, kilogram, ton, ounce, dan pound.&#10;&#10;
-        Fitur konversi berat dirancang dengan antarmuka yang intuitif dan cepat dalam menampilkan hasil konversi.&#10;&#10;
-        Sangat cocok digunakan dalam kegiatan belajar, memasak, logistik, atau aktivitas lainnya yang melibatkan satuan berat.&#10;&#10;
-        Dikembangkan oleh Faris Rizky Ramadhan sebagai bagian dari proyek pembelajaran pemrograman mobile.&#10;&#10;
-        Hak cipta dilindungi © 2025.
+        Aplikasi Konversi ini juga mendukung konversi satuan berat untuk memudahkan pengguna menghitung nilai antar satuan seperti miligram, gram, kilogram, ton, ounce, dan pound.\n\nFitur konversi berat dirancang dengan antarmuka yang intuitif dan cepat dalam menampilkan hasil konversi.\n\nSangat cocok digunakan dalam kegiatan belajar, memasak, logistik, atau aktivitas lainnya yang melibatkan satuan berat.\n\nDikembangkan oleh Faris Rizky Ramadhan sebagai bagian dari proyek pembelajaran pemrograman mobile.\n\nHak cipta dilindungi © 2025.
     </string>
     <string name="tentang_berat">Tentang Konversi Berat</string>
 </resources>
